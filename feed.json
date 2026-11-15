@@ -20,18 +20,11 @@
       "slug": "ri-ben-zhu-rankingu-zhou-ci-cai-wu-jian-zheng-apuri",
       "symbol": "chart.bar.fill",
       "color": "#e8590c"
-    },
-    {
-      "name": "GH-300進捗トラッカー",
-      "short": "GH-300",
-      "slug": "gh-300jin-bu-toratuka",
-      "symbol": "graduationcap.fill",
-      "color": "#7048e8"
     }
   ],
   "usage": {
     "percent": 40,
     "reset": "2026-11-20T06:50:00+09:00"
   },
-  "updated": "2026-11-15T20:47:00+09:00"
+  "updated": "2026-11-15T20:51:00+09:00"
 }
