@@ -20,11 +20,18 @@
       "slug": "ri-ben-zhu-rankingu-zhou-ci-cai-wu-jian-zheng-apuri",
       "symbol": "chart.bar.fill",
       "color": "#e8590c"
+    },
+    {
+      "name": "週の見通し",
+      "short": "週の見通し",
+      "slug": "zhou-nojian-tong-si",
+      "symbol": "calendar",
+      "color": "#0ca678"
     }
   ],
   "usage": {
     "percent": 40,
     "reset": "2026-11-20T06:50:00+09:00"
   },
-  "updated": "2026-11-15T20:51:00+09:00"
+  "updated": "2026-11-15T21:07:00+09:00"
 }
