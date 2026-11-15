@@ -1,0 +1,37 @@
+{
+  "apps": [
+    {
+      "name": "監視銘柄ボード",
+      "short": "監視銘柄",
+      "slug": "jian-shi-ming-bing-bodo",
+      "symbol": "chart.line.uptrend.xyaxis",
+      "color": "#2f9e44"
+    },
+    {
+      "name": "朝のランキングボード",
+      "short": "朝ランキング",
+      "slug": "zhao-norankingubodo",
+      "symbol": "list.number",
+      "color": "#1971c2"
+    },
+    {
+      "name": "日本株ランキング・週次財務検証アプリ",
+      "short": "週次検証",
+      "slug": "ri-ben-zhu-rankingu-zhou-ci-cai-wu-jian-zheng-apuri",
+      "symbol": "chart.bar.fill",
+      "color": "#e8590c"
+    },
+    {
+      "name": "GH-300進捗トラッカー",
+      "short": "GH-300",
+      "slug": "gh-300jin-bu-toratuka",
+      "symbol": "graduationcap.fill",
+      "color": "#7048e8"
+    }
+  ],
+  "usage": {
+    "percent": 40,
+    "reset": "2026-11-20T06:50:00+09:00"
+  },
+  "updated": "2026-11-15T20:47:00+09:00"
+}
